@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+authors:
+- family-names: "Aksoy"
+  given-names: "Mehmet Çağrı"
+  orcid: " https://orcid.org/0000-0002-7886-7945 "
+title: "Land Classification in Satellite Images by Injecting Traditional Features to CNN Models"
+version: 1.0
+date-released: 2022
+url: "https://arxiv.org/abs/2207.10368"
